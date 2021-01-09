@@ -1,0 +1,51 @@
+Asus TUF Core i5 8th Gen
+4.5* Rating
+Price-79,990
+Model Number
+FX504GM-E4112T
+Part Number
+90NR00Q3-M06320
+Series
+TUF
+Color
+Black Metal
+Type
+Gaming Laptop
+Suitable For
+Gaming, Processing & Multitasking
+
+Processor Generation
+8th Gen
+SSD
+Yes
+SSD Capacity
+128 GB
+RAM
+8 GB
+RAM Type
+DDR4
+HDD Capacity
+1 TB
+Processor Variant
+8300H
+Chipset
+Intel HM370
+Clock Speed
+2.3 GHz with Turbo Boost Upto 4.0 GHz
+Memory Slots
+2 Slots
+Expandable Memory
+Upto 32 GB
+RAM Frequency
+2666 MHz
+Cache
+8 MB
+RPM
+5400
+Graphic Processor
+NVIDIA Geforce GTX 1060
+Number of Cores
+4
+Operating System
+OS Architecture
+64 bit

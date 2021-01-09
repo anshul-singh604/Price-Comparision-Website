@@ -1,0 +1,17 @@
+Price:21,999
+Display
+6.30-inch (1080x2280)
+Processor
+Qualcomm Snapdragon 665
+Front Camera
+13MP
+Rear Camera
+48MP + 8MP + 2MP + 2MP
+RAM
+4GB
+Storage
+64GB
+Battery Capacity
+4000mAh
+OS
+Android 9 Pie
